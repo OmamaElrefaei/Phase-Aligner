@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      root
+HostName                       192.168.9.163
+ProcessIdentifier              2730
+ProcessCreationTime_UTC        1655973561
+ProcessCreationTime_Readable   Thu Jun 23 10:39:21 2022 EET
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /root/Desktop/ECE621/PA/schematic/sch.oa.cdslck
+TimeEditLocked                 Thu Jun 23 15:18:59 2022 EET
